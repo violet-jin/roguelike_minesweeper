@@ -1,5 +1,5 @@
 # roguelike_minesweeper.py
-
+```python
 import tkinter as tk
 from tkinter import messagebox, Toplevel
 import random
@@ -710,3 +710,4 @@ if __name__ == "__main__":
 
     game = RoguelikeMinesweeper()
     game.run()
+```
