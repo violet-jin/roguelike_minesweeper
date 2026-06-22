@@ -9,4 +9,8 @@
 
 运行指南:操作简单，有说明书。
 
+![1.00](https://tc-cdn.processon.com/po/68e703db9e1b5303d5391cda-6a3958818b54df66d20aaf99)
+
+![屏幕截图 2026-06-22 234453.png](https://tc-cdn.processon.com/po/68e703db9e1b5303d5391cda-6a3958878b54df66d20aaf9b)  
+
 AI工具声明:所有具体代码都由AI初步生成，本人只负责调试和修改代码。
